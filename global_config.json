@@ -1,0 +1,19 @@
+{
+  "schema_version": 1,
+  "config_version": 12,
+  "published_at": "2026-07-21T10:00:00Z",
+  "configs": {
+    "version": {
+      "default": {
+        "1.0.0": {
+          "latest_version": "1.0.10",
+          "latest_build": 15,
+          "min_supported_version": "1.0.7",
+          "release_notes": "更新说明",
+          "url": "https://example.com/download",
+          "backup_info": ""
+        }
+      }
+    }
+  }
+}
