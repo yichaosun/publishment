@@ -7,10 +7,10 @@
       "default": {
         "1.0.0": {
           "latest_version": "1.0.10",
-          "latest_build": 19,
+          "latest_build": 20,
           "min_supported_version": "1.0.7",
           "release_notes": "",
-          "url": "https://ghproxy.net/https://github.com/yichaosun/publishment/releases/download/v1.0.10/tracev.1.0.10+19.apk",
+          "url": "https://ghproxy.net/https://github.com/yichaosun/publishment/releases/download/v1.0.10%2B20/app-globalonline-1.0.10+20.apk",
           "backup_info": ""
         }
       }
